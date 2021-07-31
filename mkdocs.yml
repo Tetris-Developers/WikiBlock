@@ -1,4 +1,4 @@
 site_name: Block-Wiki
-theme: "gitbook"
+theme: "darkly"
 nav:
   - Home: index.md
