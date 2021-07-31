@@ -1,4 +1,4 @@
 site_name: WikiBlock
-theme: "darkly"
+theme: "readthedocs"
 nav:
   - Home: index.md
