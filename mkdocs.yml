@@ -1,0 +1,4 @@
+site_name: Block-Wiki
+theme: "gitbook"
+nav:
+  - Home: index.md
