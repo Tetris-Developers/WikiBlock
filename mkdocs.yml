@@ -1,4 +1,4 @@
-site_name: Block-Wiki
+site_name: WikiBlock
 theme: "darkly"
 nav:
   - Home: index.md
